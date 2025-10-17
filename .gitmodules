@@ -1,0 +1,9 @@
+[submodule "happy-cli"]
+	path = happy-cli
+	url = git@github.com:yisizhu520/happy-cli.git
+[submodule "happy-client"]
+	path = happy-client
+	url = https://github.com/yisizhu520/happy-vibe-coding
+[submodule "happy-server"]
+	path = happy-server
+	url = git@github.com:yisizhu520/happy-server.git
